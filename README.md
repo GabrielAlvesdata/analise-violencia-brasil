@@ -1,4 +1,4 @@
-# Análise de Violência no Brasil
+# Brazil Geographic Data Analysis
 
 Projeto de análise de dados utilizando Python.
 
@@ -24,5 +24,6 @@ Explorar dados geográficos e criar visualizações de padrões.
 
 ### Ranking de estados
 ![Gráfico de população](grafico_populacao.png)
+
 
 
