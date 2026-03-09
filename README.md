@@ -23,6 +23,5 @@ Explorar dados geográficos e criar visualizações de padrões.
 - ## Visualizações
 
 ### Ranking de estados
-![Gráfico](images/grafico_populacao.png)
-
+![Gráfico de população](grafico_populacao.png)
 
