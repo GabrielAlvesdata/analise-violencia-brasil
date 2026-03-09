@@ -17,4 +17,10 @@ Explorar dados geográficos e criar visualizações de padrões.
 
 - Análise exploratória
 - Visualizações gráficas
+
 - Mapa interativo
+
+- ## Visualizações
+
+### Ranking de estados
+![grafico](grafico_populacao.png)
